@@ -217,7 +217,7 @@ header nav a:hover {
 
 /* ===== BANNER SECUNDÁRIO ===== */
 .banner-secundario img {
-  width: 100%;
+  width: 50%;
   height: auto;
   display: block;
   border-radius: var(--esp-2);
